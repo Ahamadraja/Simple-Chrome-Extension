@@ -1,0 +1,20 @@
+body{
+    background: rgba(198, 193, 183, 0.888);
+}
+.wrapper{
+    text-align: center;
+    font-size: medium;
+}
+#tabTitle{
+    color: rgb(117, 59, 59);
+    padding-right: 10px;
+}
+#changeButton{
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    background: #facc15;
+    cursor: pointer;
+}
